@@ -28,16 +28,16 @@ Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of 
 
 It checks 20 consecutive frames and if the Eye Aspect ratio is less than 0.25, Alert is generated.
 
-<img src="https://git.selfmade.ninja/DINESH_4/drowsiness_detection/-/blob/master/assets/eye1.jpg">
+<img src="https://github.com/Dinesh-4/Drowsiness_Detection/blob/main/assets/eye1.jpg">
 
 
 #### Relationship
 
-<img src="https://git.selfmade.ninja/DINESH_4/drowsiness_detection/-/blob/master/assets/eye2.png">
+<img src="https://github.com/Dinesh-4/Drowsiness_Detection/blob/main/assets/eye2.jpg">
 
 #### Summing up
 
-<img src="https://git.selfmade.ninja/DINESH_4/drowsiness_detection/-/blob/master/assets/eye3.jpg">
+<img src="https://github.com/Dinesh-4/Drowsiness_Detection/blob/main/assets/eye3.jpg">
 
 
 For more information, [see](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
