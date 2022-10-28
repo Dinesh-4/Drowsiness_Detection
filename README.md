@@ -33,7 +33,7 @@ It checks 20 consecutive frames and if the Eye Aspect ratio is less than 0.25, A
 
 #### Relationship
 
-<img src="https://github.com/Dinesh-4/Drowsiness_Detection/blob/main/assets/eye2.jpg">
+<img src="https://github.com/Dinesh-4/Drowsiness_Detection/blob/main/assets/eye2.png">
 
 #### Summing up
 
